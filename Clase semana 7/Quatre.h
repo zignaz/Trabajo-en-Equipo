@@ -10,7 +10,7 @@ public:
 	Q1(int velocidad, int x, int y, int dx);
 	~Q1() {}
 
-	/////
+	///////
 	int getvelocidad;
 	int getx;
 	int gety;
