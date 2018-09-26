@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="CLeger.h" />
+    <ClInclude Include="Quatre.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Menu.cpp" />
